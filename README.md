@@ -1,7 +1,5 @@
 # rust-ten-commandments 🦀
 
-![Crab logo or ascii art if you want — optional]
-
 The Crab Himself hath spoken.
 
 The Ten Commandments of Rust — delivered directly from the void via `cargo install`.
