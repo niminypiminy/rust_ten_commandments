@@ -1,13 +1,15 @@
 [package]
 name = "rust-ten-commandments"    
-version = "0.1.0"
+version = "0.1.2"
 edition = "2024"
 description = "Hear ye! The Ten Commandments of Rust — delivered by the Crab Himself 🦀"
 license = "MIT"
 repository = "https://github.com/niminypiminy/rust_ten_commandments"
-keywords = ["rust", "commandments", "meme", "crab", "preach"]
+keywords = ["rust", "commandments", "meme", "crab"]
 categories = ["command-line-utilities"]
 
 [[bin]]
 name = "rust-ten-commandments"     
 path = "src/main.rs"
+
+
